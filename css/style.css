@@ -218,7 +218,8 @@ position: absolute;
 }
 
 .big-padding {
-  padding: 60px !important;
+  padding-left: 60px !important;
+  padding-right: 60px !important;
 }
 
 .plr100 {
