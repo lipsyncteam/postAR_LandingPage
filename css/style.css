@@ -218,7 +218,7 @@ position: absolute;
 }
 
 .big-padding {
-  padding: 100px !important;
+  padding: 60px !important;
 }
 
 .plr100 {
@@ -497,7 +497,7 @@ span {
   font-weight: 300;
 }
 p.lead {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 28px;
 }
