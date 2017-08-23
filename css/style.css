@@ -4515,6 +4515,7 @@ video {
   .image-edge .container div[class*='col-'] {
     position: relative;
     padding-bottom: 40px;
+    padding-top: 40px;
     top: 0;
     transform: none;
     -webkit-transform: none;
@@ -5628,7 +5629,7 @@ footer.bg-dark a {
   padding: 20px !important;
 }
 p.lead {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 19px;
 }

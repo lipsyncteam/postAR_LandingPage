@@ -1588,11 +1588,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
   .container {
     width: 750px;
   }
-}
+}*/
 @media (min-width: 992px) {
   .container {
     width: 970px;
@@ -1798,7 +1798,7 @@ pre code {
     width: 66.66666667%;
   }
   .col-sm-7 {
-    width: 58.33333333%;
+    /*width: 58.33333333%;*/
   }
   .col-sm-6 {
     width: 50%;
@@ -1807,7 +1807,7 @@ pre code {
     width: 41.66666667%;
   }
   .col-sm-4 {
-    width: 33.33333333%;
+    /*width: 33.33333333%;*/
   }
   .col-sm-3 {
     width: 25%;
@@ -1843,7 +1843,7 @@ pre code {
     right: 41.66666667%;
   }
   .col-sm-pull-4 {
-    right: 33.33333333%;
+    /*right: 33.33333333%;*/
   }
   .col-sm-pull-3 {
     right: 25%;
@@ -1870,7 +1870,7 @@ pre code {
     left: 75%;
   }
   .col-sm-push-8 {
-    left: 66.66666667%;
+    /*left: 66.66666667%;*/
   }
   .col-sm-push-7 {
     left: 58.33333333%;
