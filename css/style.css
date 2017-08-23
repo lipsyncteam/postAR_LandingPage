@@ -169,7 +169,7 @@ hr.short-thick {
   .pull-left-sm {
     float: left !important;
   }
-  
+
   .overflow-hidden-xs {
     overflow: hidden;
   }
@@ -499,7 +499,7 @@ span {
   font-weight: 300;
 }
 p.lead {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 28px;
 }
