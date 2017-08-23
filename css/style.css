@@ -148,7 +148,7 @@ hr.short-thick {
 }
 .spread-children-large * {
   display: inline-block;
-  margin-left: 24px;
+  /*margin-left: 24px;*/
   margin-right: 24px;
 }
 .container {
@@ -169,6 +169,7 @@ hr.short-thick {
   .pull-left-sm {
     float: left !important;
   }
+  
   .overflow-hidden-xs {
     overflow: hidden;
   }
@@ -3453,6 +3454,7 @@ img {
   .flex-direction-nav {
     display: none;
   }
+
 }
 .controls-inside .flex-control-nav {
   bottom: 24px;
@@ -4505,6 +4507,7 @@ video {
   .image-block-right .image-bg {
     position: relative;
   }
+
 }
 .image-edge .container {
   position: relative;
